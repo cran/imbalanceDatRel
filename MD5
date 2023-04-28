@@ -1,0 +1,12 @@
+92241c7d36e04d2fd2e7dd90830a5827 *DESCRIPTION
+a7b5f9e94e5b34440208d127148f5ddc *LICENSE
+0ed8e57d8551f59abc063cffe268ed6d *NAMESPACE
+1d7ba61170df77879ad7d9c9ed074f10 *R/DatRel.R
+8a24c2c0f03aa2bf69c285f8d8e048ec *R/f_dominate.R
+655b2dc31b9a7921e8af6877a4c595ea *R/f_relocate.R
+cae79a184821ba7ad4fdc304bb391477 *R/oversampleDatRel.R
+ad2cd2d2eea68c9bdd8766325cdd2429 *README.md
+e2859f34e5dc58ae428cd2d21e8ec762 *man/DatRel.Rd
+6e47d1bfe5c7517f5f345173a3801d78 *man/f_dominate.Rd
+32f42280bf6a92a98391ec3ebac5f5a1 *man/f_relocate.Rd
+8932523fcb5b4f32b50eaefee7fa8358 *man/oversampleDatRel.Rd
